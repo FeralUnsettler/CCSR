@@ -170,9 +170,9 @@ data.to_csv('cannabis_data.csv', index=False)
 
 ## Requirements
 
-Python 3.x
-pandas
-numpy
+Python 3.x,
+pandas,
+numpy,
 scikit-learn
 
 ## License
