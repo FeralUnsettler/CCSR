@@ -45,4 +45,5 @@ WikiList
 - [Grow da Maria](https://growdamaria.com/produto/container-og-squadafum/)
 - [Vídeo Demonstrativo](https://youtu.be/yOFKnfV4S94?list=PLSE9iuYa5aJd5UnmRJcPm6GpNWeakq_5i)
 
-Esses links devem fornecer uma melhor experiência de usuário quando visualizados no GitHub.
+
+Pesquisa realizada em 06/04/2024
